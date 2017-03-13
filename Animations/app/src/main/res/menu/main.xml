@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/rotate360"
+        android:orderInCategory="100"
+        android:title="@string/rotate_string" />
+    <item
+        android:id="@+id/zoomInOut"
+        android:orderInCategory="100"
+        android:title="@string/zoom_in_out" />
+    <item
+        android:id="@+id/fadeInOut"
+        android:orderInCategory="100"
+        android:title="@string/fade_string" />
+</menu>

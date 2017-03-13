@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="rotate_string">Rotate 360</string>
+    <string name="zoom_in_out">Zoom In and Out</string>
+    <string name="fade_string">Fade</string>
+</resources>

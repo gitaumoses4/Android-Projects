@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="audio">Set Audio Profiles</string>
+    <string name="ring">Ring</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="silent">Silent</string>
+    <string name="mode">Mode</string>
+    <string name="status">Status</string>
+</resources>

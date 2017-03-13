@@ -1,0 +1,1 @@
+Android Project to show how to use, and implement animations.

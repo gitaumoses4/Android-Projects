@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioCapture</string>
+    <string name="Recording">Recording</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+</resources>

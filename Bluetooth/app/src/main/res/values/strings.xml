@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="on">Turn On</string>
+    <string name="visible">Get Visible</string>
+    <string name="list">List Devices</string>
+    <string name="off">Turn Off</string>
+</resources>

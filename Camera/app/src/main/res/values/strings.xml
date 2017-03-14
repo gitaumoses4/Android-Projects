@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="use_camera_api">Use Camera API</string>
+    <string name="use_existing_camera">Use existing camera</string>
+    <string name="tap">Tap the image to open the camera!!</string>
+    <string name="hello_world">Hello World</string>
+    <string name="capture">Capture</string>
+</resources>

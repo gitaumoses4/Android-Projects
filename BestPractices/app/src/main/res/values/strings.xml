@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BestPractices</string>
+    <string name="check">Charging Check</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Hello World!</string>
+    <string name="username">Username</string>
+</resources>

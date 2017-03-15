@@ -6,8 +6,8 @@ only backup your application data. In order to access teh other applications
 data, you need to root your phone. 
 
 In order to make a data backup application, you need to register your
-application with (google backup
-service)[https://developer.android.com/google/backup/signup.html].
+application with [google backup
+service](https://developer.android.com/google/backup/signup.html)
 
 After registering you have to specify this key in the AndroidManifest XML.
 

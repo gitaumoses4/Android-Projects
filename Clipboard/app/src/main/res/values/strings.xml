@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clipboard</string>
+    <string name="paste">Paste Text</string>
+    <string name="copy">Copy Text</string>
+    <string name="pastetext">Copied Text</string>
+    <string name="copytext">Text to copy</string>
+</resources>

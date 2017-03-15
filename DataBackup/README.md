@@ -27,7 +27,7 @@ data backup. In order to use this class, you have to extends your class with
 it. Its syntax is given below.
 
 ```java
-public class MyBackupPlace" extends BackupAgentHelper{
+public class MyBackupPlace extends BackupAgentHelper{
     
 }
 ```

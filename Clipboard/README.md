@@ -1,4 +1,4 @@
-#Android Clipboard
+# Android Clipboard
 
 Android provides the clipboard framework for copying and pasting different
 types of data. The data could be text, images, and binary stream data or other
@@ -14,7 +14,7 @@ ClipboardManager myClipboard;
 myClipboard = (ClipboardManager)getSystemService(CLIPBOARD_SERVICE);
 ```
 
-###Copying Data
+### Copying Data
 The new thing you need to do is instanciate the ClipData object by calling the
 respective type of data method of the ClipData class. In case of text data, the
 `newPlainText` method will be called. After that you have to set that data as
@@ -27,7 +27,7 @@ myClip = ClipData.newPlainText("text",text);
 myClipboard.setPrimaryClip(myClip);
 ```
 
-###Pasting Data
+### Pasting Data
 In order to paste the data, we will first get the clip by calling the
 `getPrimaryClip()` method. And from that click we will get the item in
 ClipData.item object. And from the object we will get teh data. Its syntax is

@@ -12,7 +12,7 @@ from your application. These are listed below.
 ## Integrating Facebook SDK
 This is the first way of connecting with facebook. You have to register your
 application and then receive some Application Id, and ehn you have to download
-the facebook SKD and add it to your project. These steps are listed below:
+the facebook SDK and add it to your project. These steps are listed below:
 
 ### GENERATING APPLICATION SIGNATURE
 
@@ -36,7 +36,7 @@ password and then copy the key that is given to you.
 
 ### REGISTERING YOUR APPLICATION
 
-Now create a new facebook applicatoin at https://developers.facebook.com/apps
+Now create a new facebook application at https://developers.facebook.com/apps
 and fill all the information. It is shown below:
 
 Now move to the native android app section and fill in your project and class

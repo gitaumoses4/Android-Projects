@@ -97,6 +97,6 @@ You can also enable or disable the zoom gestures in the map by calling the
 googleMap.getUiSettings().setZoomGesturesEnabled(true);
 ```
 ### DETAILS
-**Key Store password**  - password
-**Key Store alias**     - GoogleMaps
-**Alias password**      - password
+* **Key Store password**  - password
+* **Key Store alias**     - GoogleMaps
+* **Alias password**      - password

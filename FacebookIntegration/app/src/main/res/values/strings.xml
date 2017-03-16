@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FacebookIntegration</string>
+    <string name="tap">Tap the image to share something</string>
+</resources>
